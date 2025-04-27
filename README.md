@@ -6,7 +6,7 @@ This project allows you to summarize text messages using a pre-trained t5-small 
 
 1. Clone the repository:
 ```bash
-git clone <repository_url>
+git clone https://github.com/VladAverkov/summary_bot
 ```
 2. Navigate to the `summary_bot` folder:
 ```bash
